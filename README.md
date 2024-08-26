@@ -1,7 +1,11 @@
-# SMAverage-calculationVFinal
-
-
+Usage
+Enter Data: Input view counts in the text box. Use formats like 1K or 2.5M.
+Calculate: Click the "Calculate" button to compute the average and sum of views.
+New Data: Click "New Data" to clear the input and results.
+Exit: Click "Exit" to close the application.
+Code
 The source code for the application is located in the views_calculator.py file. It includes:
+
 calculate_average_views: Computes the average of view counts.
 calculate_sum_views: Computes the sum of view counts.
 parse_views: Parses view counts from text input.
